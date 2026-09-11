@@ -1,0 +1,6 @@
+model,config,win_rate,avg_hp,wins,rounds
+control,passive,1.0,374.2,30,30
+control,balanced,0.933,171.0,28,30
+control,aggressive,0.233,15.7,7,30
+control,combo_heavy,0.9,199.2,27,30
+control,special_heavy,0.467,34.6,14,30
